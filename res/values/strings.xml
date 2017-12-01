@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MediaCodecAudioEncoder</string>
+    <string name="title">MediaCodec Audio Encoder!</string>
+    <string name="encode">Encode</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
